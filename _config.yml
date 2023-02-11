@@ -1,0 +1,12 @@
+title: Tecnologia, Cultura e Sociedade
+email: blog@jeidsan.com.br
+description: Meu nome é Jeidsan Pereira, trabalho com sistemas para o mercado financeiro, faço pesquisa nas áreas de estatística e inteligência artificial e nesse espaço escrevo sobre tecnologia, cultura e sociedade.
+baseurl: "" 
+url: "https://blog.jeidsan.com.br"
+linkedin_username: jeidsan
+facebook_username: jeidsan
+instagram_username: jeidsan
+github_username:  jeidsan
+theme: minima
+plugins:
+  - jekyll-feed
